@@ -1,0 +1,13 @@
+GitHub
+
+
+>>remember password
+git config --global credential.helper wincred
+
+>> create remote
+git remote add remote_name https://github.com/user/xxx.git
+
+>> upload to github
+git push remote_name master
+
+
