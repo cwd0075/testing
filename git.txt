@@ -5,9 +5,9 @@ GitHub
 git config --global credential.helper wincred
 
 >> create remote
-git remote add remote_name https://github.com/user/xxx.git
+git remote add origin https://github.com/usergit gi/xxx.git
 
 >> upload to github
-git push remote_name master
+git push origin master
 
 
